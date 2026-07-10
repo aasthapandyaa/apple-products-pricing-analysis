@@ -59,7 +59,12 @@ Beyond describing *what happened*, this project builds a Random Forest model to 
 ## Dashboard Preview
 <img width="1527" height="850" alt="image" src="https://github.com/user-attachments/assets/0abd86aa-dce3-4da4-b09d-54f65c970c40" />
 
-## Connect
-📊 [LinkedIn](your-linkedin-url-here) ·)
+## Author
+
+**Aastha Pandya** | MIS Graduate (GPA: 3.8) | Data Analyst
+
+GitHub: [github.com/aasthapandyaa](https://github.com/aasthapandyaa)
+
+LinkedIn: [www.linkedin.com/in/aastha-pandya12](https://www.linkedin.com/in/aastha-pandya12)
 
 
