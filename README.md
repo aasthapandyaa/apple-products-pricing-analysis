@@ -1,4 +1,4 @@
-# Apple Products Pricing Analysis
+# Apple Products Pricing Analysis 
 
 **Can a data-driven approach reveal hidden pricing strategies in e-commerce?** This project analyzes 80,000 real pricing records to uncover how Amazon and Flipkart price Apple products differently, whether sale events are genuinely worth waiting for, and whether discount behavior can be predicted — turning raw transactional data into decisions a retail or pricing team could actually act on.
 
